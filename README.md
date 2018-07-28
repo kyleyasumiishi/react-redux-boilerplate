@@ -1,83 +1,96 @@
-# React Calculator
 
-I'm in the process of building a clone of the iPhone calculator app using React & Redux. I also started building a similar [calculator app in Angular](https://github.com/kyleyasumiishi/calculator) to begin learning that framework.
 
-## About
+Credit: This awesome README template was created by Billie Thompson ([GitHub: PurpleBooth]).
 
-I'm building this iPhone calculator app clone as one of freeCodeCamp's front-end libraries projects.
+[GitHub: PurpleBooth]: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
-freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, Medium publications and local organizations that intend to make learning web development accessible to anyone.
+---
 
-Learn more at <a href="https://www.freecodecamp.org/">freecodecamp.org</a>.
+# Project Title
+
+One Paragraph of project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
 
 ### Installing
 
-Follow these instructions to get a development environment up and running.
+A step by step series of examples that tell you how to get a development env running
 
-Clone the repository
-
-```
-git clone https://github.com/kyleyasumiishi/react-calculator.git
-```
-
-Install yarn
+Say what the step will be
 
 ```
-npm i yarn
+Give the example
 ```
 
-Install dependencies
+And repeat
 
 ```
-# cd into root directory
-npm i
+until finished
 ```
 
-Run the app in development mode
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
 
 ```
-yarn start
+Give an example
 ```
 
-### Running the tests
+### And coding style tests
 
-You can run my unit tests with the following command:
+Explain what these tests test and why
 
 ```
-yarn test
+Give an example
 ```
 
-## Lessons Learned
+## Deployment
 
-One of my primary goals for each freeCodeCamp project and set of challenges is to learn about new web development concepts and practice my programming skills.
+Add additional notes about how to deploy this on a live system
 
-Here are a few skills I practiced by creating this React + Redux app:
+## Built With
 
--
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Technologies Used
+## Contributing
 
-- React
-- Redux
-- JavaScript
-- HTML
-- CSS
-- Node.js
-- Git
-- npm
-- yarn
-- Jest
-- Enzyme
-- ESLint
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-- **Kyle Yasumiishi** - https://github.com/kyleyasumiishi
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-## Thank You
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-Thanks for taking the time to check out my GitHub! If you have any feedback on this project or would like to reach out to me, please <a href="https://kyleyasumiishi.github.io/portfolio/">send me a message</a>.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+

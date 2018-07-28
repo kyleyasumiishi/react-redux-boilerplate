@@ -1,4 +1,10 @@
+# React-Redux-Boilerplate
 
+This repo contains boilerplate code for getting a React/Redux project set up quickly. It contains the source files generated from `create-react-app` plus several of the npm package dependencies I regularly use for my React projects, including: 
+- **Enzyme** - For unit testing.
+- **Prettier** - Cleaner code. Also includes ESlint plugins for Prettier and an .eslintrc file.
+- **Redux** - Includes `react-redux` and `redux` for application state management.
+- **gh-pages** - For easy deployment to GitHub pages.
 
 Credit: This awesome README template was created by Billie Thompson ([GitHub: PurpleBooth]).
 
